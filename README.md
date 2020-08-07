@@ -1,4 +1,7 @@
+
 # Task Manager
+
+[![Codemagic build status](https://api.codemagic.io/apps/5f2d66b2cfa9365b25ab1fc1/5f2d66b2cfa9365b25ab1fc0/status_badge.svg)](https://codemagic.io/apps/5f2d66b2cfa9365b25ab1fc1/5f2d66b2cfa9365b25ab1fc0/latest_build)
 
 A new Flutter project.
 
